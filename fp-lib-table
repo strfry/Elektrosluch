@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name lib)(type KiCad)(uri /home/strfry/Elektrosluch/library)(options "")(descr ""))
+  (lib (name digikey)(type KiCad)(uri /home/strfry/Elektrosluch/digikey-kicad-library/digikey-footprints.pretty)(options "")(descr ""))
+)

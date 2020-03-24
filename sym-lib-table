@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name elektrosluch2-rescue)(type Legacy)(uri ${KIPRJMOD}/elektrosluch2-rescue.lib)(options "")(descr ""))
+  (lib (name r_pot_dual_switch_separate)(type Legacy)(uri ${KIPRJMOD}/library/r_pot_dual_switch_separate.lib)(options "")(descr ""))
+)
